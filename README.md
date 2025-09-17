@@ -8,18 +8,12 @@ KPIs & Visuals – Designed KPIs for hesitation score, filler usage, and topic-w
 Data Management – Preprocessed transcripts in Excel and PostgreSQL before visualization
 Business Value – Helps organizations gain insights into executive communication and investor messaging
 
-📊 Tools Used
-
+#Tools Used
 Excel – Data cleaning & preprocessing
-
 PostgreSQL – Structured storage of transcript metrics
-
 Power BI – Dashboarding & visualization
 
-💡 Outcomes
-
+#Outcomes
 Framework to assess executive communication effectiveness
-
 Identified topic-wise stress triggers in Q&A sessions
-
 Delivered a professional, presentation-ready dashboard for decision-makers
