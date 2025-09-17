@@ -1,16 +1,32 @@
 # Executive Stress Analyzer
-Dashboard to analyze stress indicators in executive earnings calls using Power BI and SQL
-This project visualizes executive stress levels during earnings calls using filler word frequency and hesitation metrics.
+📌 Overview
 
-## Tools Used
-- Power BI
-- PostgreSQL
-- Excel
+This project analyzes executive communication behavior during corporate earnings calls, focusing on hesitation signals such as pauses and filler words. The goal is to provide a structured way to interpret how leaders respond under pressure.
 
-## Files
-- Power BI file: `Pause HEsitation.pbix`
-- Dataset: `Behavioral Pitch Response Tracker.csv`
-- Visuals: Dashboard screenshots
+🎯 Key Highlights
 
-## Purpose
-To analyze cognitive stress indicators and identify pressure points in CEO/CFO earnings call responses.
+Behavioral Analytics – Quantified pauses and filler words to highlight stress patterns
+
+Interactive Dashboards – Built in Power BI, with drill-down by topics and sessions
+
+KPIs & Visuals – Designed KPIs for hesitation score, filler usage, and topic-wise trends
+
+Data Management – Preprocessed transcripts in Excel and PostgreSQL before visualization
+
+Business Value – Helps organizations gain insights into executive communication and investor messaging
+
+📊 Tools Used
+
+Excel – Data cleaning & preprocessing
+
+PostgreSQL – Structured storage of transcript metrics
+
+Power BI – Dashboarding & visualization
+
+💡 Outcomes
+
+Framework to assess executive communication effectiveness
+
+Identified topic-wise stress triggers in Q&A sessions
+
+Delivered a professional, presentation-ready dashboard for decision-makers
