@@ -10,7 +10,9 @@ Business Value – Helps organizations gain insights into executive communicatio
 
 # Tools Used
 Excel – Data cleaning & preprocessing
+
 PostgreSQL – Structured storage of transcript metrics
+
 Power BI – Dashboarding & visualization
 
 # Outcomes
